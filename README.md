@@ -16,13 +16,39 @@ Wireframing its a blueprint of a web application.It outlines the basic structure
 |Content Placement|Indicats where text,images and othe elements will be position|
 |Functionality| Outline key fuctionalities and interaction|
 
-## Types of Wireframes
-|Low-Fidelity Wireframe| High-Fidelity Wireframe|
-|----------------------|-------------------------|
-|Its a simple sketch layout that focuses on ovaral structure and functionality  without detail design|Its  more detailed and refined version often closer to the final design,including more specific layout and design|
+---
 
-## AirBNB Project(Figma)
-The AirBNB on Figma,its high-fidelity wireframe because it includes more detaled elements,structure and fuctionality which looks similar with the final design layout.
+##  🧩Types of Wireframes
+Wireframes come in different levels of detail and are typically categorized as low-fidelity and high-fidelity.
+
+### 🔹 Low-Fidelity Wireframes
+- These are basic sketches or rough layouts.
+
+- They focus on structure, content placement, and user flow.
+
+- No colors, fonts, or detailed graphics.
+
+- Used in the early stages of design to quickly brainstorm and validate ideas.
+
+Example tools: Paper & pen, Balsamiq.
+
+### 🔹 High-Fidelity Wireframes
+- These look more like the final product.
+
+- They include detailed UI elements, actual content, typography, and even interactivity.
+
+- Used in the later stages of the design process to test usability or hand off to developers.
+
+
+### 📝 Type of Wireframe Used in This Project
+The wireframe provided in this project is a low-fidelity wireframe.
+It focuses on showing the basic structure and functionality of the booking system without detailed styling or interactions.
+
+It helps stakeholders understand:
+
+Who the users are (e.g., user and admin).
+
+What actions they can take (e.g., book ticket, manage schedule).
 
 ---
 
